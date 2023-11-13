@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylesheet.css"/>
+</head>
+<body>
+    <div class="header">
+        <img align="middle" src="company1.jpg" alt="company"/>
+        <h1>LOG IN</h1>
+        <label for="email">email:</label>
+        <input type="text" id="email"/>
+        <div class="wrapper">
+        <label for="password">password:</label>
+        <input type="text" id="password"/>
+        <div class="text">
+            <button onclick="myFunction()">summit</button>
+            <p id="demo"></p>
+        <script>
+            function myFunction(){
+                var txt;
+                if(confirm("log in to continue!"))
+                document.getElementById("demo").innerHTML=txt;
+            }
+        </script>
+        </div>
+        </div>
+        </div>
+    
+</body>
+</html>
