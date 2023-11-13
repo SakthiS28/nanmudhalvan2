@@ -1,0 +1,85 @@
+.wrapper{
+  width: 1000px;
+  height: 1200px;
+}
+
+
+.wrapper h1{
+  background-color: rgb(238, 94, 238);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  position: relative;
+}
+.wrapper h3{
+  color: darkblue;
+  font-family: 'Times New Roman', arial;
+  position: relative;
+  padding-left: 20px; 
+  position: relative;
+}
+.wrapper address{
+  padding-left: 30px; 
+  position: relative;
+}
+.wrapper a{
+  padding-left: 20px;
+}
+.wrapper list ul li{
+  font-family: 'Times New Roman', arial;
+  position: relative;
+  font-size: 18px;
+}
+.v1{
+  border-left: 3px solid blue;
+  height: 1000px;
+  position: absolute;
+  left: 18%;
+  margin-left: -2px;
+  top: 25%;
+}
+.header h3{
+  color: darkblue;
+  font-family: 'Times New Roman', arial;
+  position: relative; 
+  padding-left: 10px;
+}
+.header p{
+  font-size:18px ;
+  padding-left: 30px;
+  position: relative;
+  font-family:'Times New Roman', arial ;
+}
+ table,th,td{
+  border: 3px solid darkblue;
+  border-collapse: collapse;
+  padding:5px 10px 5px 10px;
+  font-size: 18px;
+}
+table{
+  margin-left: 30px;
+}
+th{
+  padding: 10px;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
